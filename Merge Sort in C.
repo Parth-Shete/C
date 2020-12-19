@@ -36,8 +36,8 @@ main()
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-#include<stdlib> 
-#include<stdio> 
+#include<stdlib.h> //.h was not used, added.
+#include<stdio.h>  //.h was not used, added.
 
 // Merges two subarrays of arr[]. 
 // First subarray is arr[l..m] 
